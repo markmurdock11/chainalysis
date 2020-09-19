@@ -76,3 +76,22 @@ As the first mover, Chainalysis has an advantage, but must keep adapting to the 
 - Coinfirm
 - Fraud.net
 
+## Conclusion
+
+### **Impact:**
+
+The impact of Chainalysis is yet to be fully realized. The crypto space is moving so rapidly that hard conclusions about the viablity of a company can swing overnight.
+
+After a successful and popular start, Chainalysis has steadily increased their contract base without making headlines. 
+
+The lack of reg-tech companies with a blockchain focus has given Chainalsyis a runway to gain momentum. No other regtech company within the crypto industry has even come near to the $50 million in funding that Chainalysis has garnered. 
+
+By its own count, Chainalysis has over 140 companies and 20 governments that now use its' products. These are great numbers, and no competitor listed above can claim anywhere close.
+
+### **Recommendations:**
+
+1. Stay up to date on De-Fi applications. The world of cryptocurrencies are moving to applications built on top of blockchains. While the company is capable of tracking the flow of value throughout chains and most de-fi applications, it does not seem like the focus is on defi. I would recommend that Chainalysis release a decentralized finance based product, so that financial institutions, governments, businesses can get a handle on the crazy world of decentralized finance. 
+2. Create a consumer-side crypto health program. While this is not big business, I believe that Chainalysis could create a lot of goodwill within the crypto community by featuring a product focused on individual consumer's crypto habits. I would imagine something along the lines of a crypto wallet based app that gave recommendations on where to buy certain tokens, whether a wallet address has a past history with fraud, or how to most easily cash out of crypto into fiat (if anyone would ever want to do such a thing). 
+
+3. Chase a high-level partnership with either a popular exchange such as Coinbase or bank such as J.P. Morgen. This is a marketing move and less about technology rather than promoting the business of regulating crypto. A high level partnership based on regulation that makes the news (and not just crypto twitter) would be huge in changing the narrative of crypto from risky investment to commodity of the future. 
+
