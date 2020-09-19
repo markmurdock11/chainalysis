@@ -95,3 +95,29 @@ By its own count, Chainalysis has over 140 companies and 20 governments that now
 
 3. Chase a high-level partnership with either a popular exchange such as Coinbase or bank such as J.P. Morgen. This is a marketing move and less about technology rather than promoting the business of regulating crypto. A high level partnership based on regulation that makes the news (and not just crypto twitter) would be huge in changing the narrative of crypto from risky investment to commodity of the future. 
 
+## **Research Links**
+
+https://www.forbes.com/companies/chainalysis/#755002955e3b
+
+https://www.chainalysis.com/
+
+https://www.crunchbase.com/organization/chainalysis
+
+https://www.bloomberg.com/profile/company/0965294D:US
+
+https://www.worldgovernmentsummit.org/events/annual-gathering/2018/speaker-detail/636537450224785536-michael-gronager
+
+https://www.crunchbase.com/person/jonathan-levin-2
+
+https://www.financemagnates.com/cryptocurrency/news/chainalysis-expands-series-b-funding-with-a-further-13m-funding/
+
+https://www.coindesk.com/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government
+
+https://www.forbes.com/sites/michaeldelcastillo/2019/07/16/cryptocurrency-crimefighter-chainalysis-joins-next-billion-dollar-startups/#73f4d30aace0
+
+https://www.asiablockchainreview.com/blockchain-a-game-changer-for-regtech/#:~:text=Asia%20Blockchain%20Review,-June%2017%2C%202019&text=Regulatory%20Technology%20(RegTech)%20refers%20to,Service%20(SaaS)%20distribution%20model.
+
+https://ciphertrace.com/
+
+https://www.coindesk.com/blockchain-sleuthing-firm-chainalysis-slashes-20-of-workforce
+
